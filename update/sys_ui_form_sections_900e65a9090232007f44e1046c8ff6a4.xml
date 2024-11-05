@@ -28,6 +28,20 @@
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2017-04-10 15:59:47</sys_updated_on>
         </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2024-11-05 14:11:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d8c2fd73c3e11610a5201212b401318b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_createnotes_note" name="x_snc_createnotes_note" sys_domain="global" view="Default view">900e65a9090232007f44e1046c8ff6a4</sys_ui_form>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_snc_createnotes_note" sys_domain="global" view="Default view">50c2fd73c3e11610a5201212b4013188</sys_ui_section>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2024-11-05 14:11:36</sys_updated_on>
+        </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_snc_createnotes_note</name>
             <roles/>
